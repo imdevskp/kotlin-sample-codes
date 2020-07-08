@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f04b46a-4eb9-4892-86e7-01fad715524d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Codecademy/Comments/Comments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codecademy/DataTypesAndVariables/DataTypesAndVariables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codecademy/HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codecademy/Numbers/Numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codecademy/Print/Print.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Codecademy/StringCharacter/StringCharacter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionals.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operator Exercises/Operator Exercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operator Exercises/src/operator_exerice.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String/src/string.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/Strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/src/strings.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Udacity/Operators/Operators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comments/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comments/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comments/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comments/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comments/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comments/Comments.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comments/src/comments.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataTypesAndVariables/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataTypesAndVariables/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataTypesAndVariables/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataTypesAndVariables/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataTypesAndVariables/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataTypesAndVariables/DataTypesAndVariables.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataTypesAndVariables/out/production/DataTypesAndVariables/DatatypesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataTypesAndVariables/out/production/DataTypesAndVariables/META-INF/DataTypesAndVariables.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataTypesAndVariables/src/datatypes.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/HelloKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/META-INF/HelloWorld.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/hello.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Numbers/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Numbers/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Numbers/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Numbers/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Numbers/Numbers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Numbers/src/numbers.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Print/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Print/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Print/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Print/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Print/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Print/Print.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Print/out/production/Print/META-INF/Print.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Print/out/production/Print/PrintKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Print/src/print.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringCharacter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringCharacter/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringCharacter/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringCharacter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringCharacter/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringCharacter/StringCharacter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringCharacter/out/production/StringCharacter/META-INF/StringCharacter.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringCharacter/out/production/StringCharacter/StringKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringCharacter/src/string.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f04b46a-4eb9-4892-86e7-01fad715524d" name="Default Changelist" comment="" />
+      <created>1593938704814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593938704814</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="40" key="new project wizard" timestamp="1593939571880">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="418" y="40" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1593939571880" />
+  </component>
+</project>
